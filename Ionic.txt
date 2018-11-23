@@ -12,3 +12,6 @@ TypeScript:
 Difference between TypeScript and JavaScript:
 ---------------------------------------------------
 TypesScript is known as Object oriented programming language whereas JavaScript is a scripting language. TypeScript has a feature known as Static typing but JavaScript does not have this feature. ... TypeScript has Interface but JavaScript does not have Interface.
+
+
+Done...
