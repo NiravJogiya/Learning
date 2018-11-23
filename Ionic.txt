@@ -7,3 +7,8 @@ Welcome To Ionic Framework
 TypeScript:
 --------------------
 "TypeScript is a free and open source programming language developed and maintained by Microsoft. It is a strict superset of JavaScript, and adds optional static typing and class-based object-oriented programming to the language. Anders Hejlsberg, lead architect of C# and creator of Delphi and Turbo Pascal, has worked on the development of TypeScript." wikipedia.org
+
+
+Difference between TypeScript and JavaScript:
+---------------------------------------------------
+TypesScript is known as Object oriented programming language whereas JavaScript is a scripting language. TypeScript has a feature known as Static typing but JavaScript does not have this feature. ... TypeScript has Interface but JavaScript does not have Interface.
